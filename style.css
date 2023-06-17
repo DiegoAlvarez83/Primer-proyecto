@@ -1,0 +1,33 @@
+h2 {
+  color: aqua;
+}
+p {
+  color: blueviolet;
+}
+h1 {
+  background-color: brown;
+}
+.container {
+  background-color: aqua;
+  padding: 16px;
+  border-radius: 16px;
+  margin: 20px 0px;
+  width: fit-content;
+}
+.selectorclase {
+  color: blueviolet;
+}
+h5 {
+  background-color: rgb(236, 233, 12);
+  font-size: 2em;
+}
+html {
+  font-size: 20px;
+}
+.instagram {
+  width: 50px;
+  height: 50px;
+  background-color: rgba(176, 233, 19, 0.533);
+  border-radius: 2rem;
+  margin: 20px 0;
+}
