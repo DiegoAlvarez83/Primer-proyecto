@@ -4,9 +4,7 @@ h2 {
 p {
   color: blueviolet;
 }
-h1 {
-  background-color: brown;
-}
+
 .container {
   background-color: aqua;
   padding: 16px;
@@ -30,4 +28,11 @@ html {
   background-color: rgba(176, 233, 19, 0.533);
   border-radius: 2rem;
   margin: 20px 0;
+}
+.font-family {
+  font-family: "Tilt Prism", cursive;
+}
+.list-img {
+  list-style-image: url(./Imagen/baby\ yoda.jpg);
+  list-style-position: inside;
 }
